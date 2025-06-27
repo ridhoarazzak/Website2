@@ -8,7 +8,6 @@ export default function Navbar() {
         <Link href="/">Home</Link>
         <Link href="/hotels">Hotel</Link>
         <Link href="/tourism">Wisata</Link>
-        <Link href="/galeri">Galeri</Link>
         <Link href="/contact">Kontak</Link>
       </div>
     </nav>
